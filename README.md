@@ -2,6 +2,8 @@
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=EternallyAscend&show_icons=true&&bg_color=30,003366,660066&title_color=fff&text_color=fff)
 
+![Metrics](https://metrics.lecoq.io/EternallyAscend?template=classic&config.timezone=Asia%2FShanghai)
+
 ![Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EternallyAscend&show_icons=true&&bg_color=60,003366,660066&title_color=fff&text_color=fff)
 
 - 🔭 I’m currently working on studying.
@@ -13,5 +15,4 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-Cite Figures from https://github.com/anuraghazra/github-readme-stats
-
+Cite Figures from `metrics.lecoq.io` & `github.com/anuraghazra/github-readme-stats`.
